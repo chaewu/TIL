@@ -3,7 +3,7 @@ const app = express();
 
 // 로컬 서버를 주소 3100에 엶
 const server = app.listen(3100, () => {
-    console.log('Start Server : localhost 3100');
+    console.log('Start Server : localhost 3100'); // 서버가 열리면 콘솔에 localhost 3100을 출력
 });
 
 // ejs는 "Embedded JavaScript templating"의 약자. 현재 내가 사용한 기능은 로컬 파일을 서버에 불러와주는 용도로 사용했다.
