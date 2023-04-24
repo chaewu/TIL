@@ -1,7 +1,7 @@
-## JDBC의 정의
+## `JDBC`의 정의
 -  Java DataBase Connectivity의 약자
 
-### JDBC의 단점
+### `JDBC`의 단점
 -  `SQL`문(query)을 일일이 작성 해줘야 한다
 -  `Connection` 객체를 직접 수동으로 열고 닫아야 한다(관리의 필요성)
 -  `preparedstatement`, `resultset` 등과 같은 객체로 조건을 전달하고 결과 값을 전달 받아야 한다
@@ -19,7 +19,7 @@
 -  단점
 	-  객체간의 매핑 설계가 잘못되었을때, 성능 저하가 발생할 수 있다
 	-  자동으로 생성되는 Query가 많아짐에 따라 의도하지 않은 Query들로 인해 성능 저하 발생 가능성 존재
-	-  더욱 더 많은 자료는  'why jpa hibernate awful'(jpa hibernate는 왜 끔찍한가) 을 구글에 검색해보면 추가적인 정보를 얻을 수 있다
+	-  더욱 더 많은 자료는  'why jpa hibernate awful' 을 구글에 검색해보면 추가적인 정보를 얻을 수 있다
 
 ```java
 @Entity
