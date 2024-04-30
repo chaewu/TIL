@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "d253b145afcfae29",
+        "id": "f978641d6c184306",
         "type": "tabs",
         "children": [
           {
-            "id": "5c77ebbe00b3f8ef",
+            "id": "05d9261278f87354",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Science/Network/URL과 URI.md",
+                "file": "Java/Java.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Science/Network/URL과 URI.md",
+                "file": "Java/Java.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Science/Network/URL과 URI.md",
+                "file": "Java/Java.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer Science/Network/URL과 URI.md"
+                "file": "Java/Java.md"
               }
             }
           }
@@ -160,23 +160,28 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5c77ebbe00b3f8ef",
+  "active": "05d9261278f87354",
   "lastOpenFiles": [
+    "Java(Web Development)/Learning Spring.md",
+    "images/Pasted image 20240417110340.png",
+    "images/Pasted image 20240417110336.png",
+    "Java/Java.md",
+    "naver.com.md",
+    "Computer Science/Network/URL과 URI.md",
+    "Java",
     "Computer Science/Network/Network Learn.md",
     "images/Pasted image 20240414015058.png",
     "images/Pasted image 20240414020424.png",
     "images",
-    "Computer Science/Network/URL과 URI.md",
     "tecoTalk/Gradle.md",
     "tecoTalk/DTO와 VO.md",
-    "Spring - Boot - Security/Learning Spring.md",
     "Algorithm/알고리즘 기초.md",
     "Welcome.md",
     "tecoTalk/Spring과 Spring Boot.md",
     "tecoTalk/MVC.md",
     "tecoTalk/JPA와 JDBC.md",
     "tecoTalk",
-    "Spring - Boot - Security",
+    "Java(Web Development)",
     "Computer Science/Network",
     "Computer Science",
     "Algorithm"
