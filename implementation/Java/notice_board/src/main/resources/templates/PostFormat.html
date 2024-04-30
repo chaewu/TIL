@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Postpage</title>
+</head>
+
+<style>
+    .layout {
+        width : 500px;
+        margin : 0 auto;
+        margin-top : 40px;
+    }
+
+    input {
+        width : 100%;
+        box-sizing : border-box;
+    }
+
+    textarea {
+        width : 100%;
+        margin-top : 10px;
+        min-height: 300px;
+    }
+</style>
+
+<body>
+
+<form action="/board/writepro" method="post">
+    <div class="layout">
+        <input name="title" type="text" placeholder="제목">
+        <textarea name="content" placeholder="내용"></textarea>
+        <button type="submit">Write</button>
+    </div>
+</form>
+
+</body>
+</html>
