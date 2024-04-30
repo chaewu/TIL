@@ -1,4 +1,3 @@
-
 # `Spring` and `Spring Boot`
 
 ### Static contents와 MVC, 템플릿 엔진
@@ -74,7 +73,7 @@
 	- 코드가 복잡해질 수록 필연적으로 다양한 객체 간의 `협력 관계`가 만들어진다. 협력을 위해서는 객체의 존재 사실을 알아야 하며 다른 객체가 어떤 방식으로 `메시지 수신`을 하는지도 알아야 함  
   
 - `의존성 주입` : 사용하는 객체가 아닌 외부의 독립된 개체가 인스턴스를 생성한 후 이를 전달해 의존성을 해결하는 방법  
-	- ex) `@Autowired` annotation으로 외부 service, repository 객체에 `@Service`, `@Repository` annotation이 적용된 인스턴스 객체를 전달하는 것  
+	- ex) `@Autowired` annotation으로 외부 service, repository 객체에 `@Service`, `@Repository` annotation이 적용된 인스턴스 객체를 전달하는 것
 	-  크게 3가지 방법으로 나뉨
 		-  생성자 주입, 필드 주입, setter 주입
 			-  필드 주입은 spring이 최초 실행될때만 주입해주고 이후에 변경이 불가능
